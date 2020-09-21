@@ -1,0 +1,23 @@
+body{
+ 
+    background-image: url('https://i.pinimg.com/originals/3e/3c/bd/3e3cbd05ec00c4b7b182b182e42d3908.jpg');
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    
+}
+.foto_perfil{border-style: groove;border-color: rgb(17, 37, 124); width: 10.5%;}
+
+.titulo{text-align: center;background-color:royalblue;color:aquamarine;border-style: groove; border-color: black;}
+
+h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3em;border-style: groove;border-color: black;}
+
+h2{ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 2em;
+    background-color: royalblue;color:aquamarine ;border-style: groove;border-color: black;}
+
+ul{padding-left: 2em;padding-top: 2px;padding-bottom: 2px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 1em;border-style: double;border-color: black;}
+
+button:hover{background-color: rgb(80, 150, 255);}
+
+.links{position: relative;}
