@@ -1,0 +1,6 @@
+namespace proyectoNuevo
+{
+    class Libro{
+        
+    }
+}

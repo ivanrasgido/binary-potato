@@ -1,4 +1,4 @@
-body{
+ body{
  
     background-image: url('https://i.pinimg.com/originals/3e/3c/bd/3e3cbd05ec00c4b7b182b182e42d3908.jpg');
     overflow: hidden;
@@ -21,3 +21,7 @@ ul{padding-left: 2em;padding-top: 2px;padding-bottom: 2px; font-family: 'Frankli
 button:hover{background-color: rgb(80, 150, 255);}
 
 .links{position: relative;}
+
+.estudios{text-align: center;background-color:royalblue;color:aquamarine;border-style: groove; border-color: black;}
+
+.estudios2{padding-left: 3em;padding-top: 50px;padding-bottom: 50px; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 1em;border-style: double;border-color: black;}
